@@ -1,3 +1,4 @@
+![logo](https://github.com/alizad18/alizad18/blob/main/Simple%20GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm MD ALIZAD</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
